@@ -10,8 +10,7 @@ Java/ Servlet/ JSP/ Oracle Database/ Oracle SQL/ HTML/ CSS/ Javascript/ Git
         회원가입시 JS단에서 정규식을 활용한 잘못된 값 + DB조회를 통한 Id 중복값 예외처리
         ![1](https://github.com/yellowrel/portfolio/assets/37281544/3cea3e21-7f8c-49ce-87be-0337f8a04638)
     
-    
-        회원가입시 P/W에 랜덤salt값을 추가하여 
+회원가입시 P/W에 랜덤salt값을 추가하여 
         SHA512/256 해시함수를 통한 암호화 알고리즘 사용
         ![image](https://github.com/yellowrel/TEAM-KWANGWOO/assets/37281544/97e766d4-eb5d-4bf6-84af-751f72a81817)
         

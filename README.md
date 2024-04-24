@@ -1,5 +1,8 @@
 ERP기반 컴퓨터몰
 
+![1](https://github.com/yellowrel/portfolio/assets/37281544/3cea3e21-7f8c-49ce-87be-0337f8a04638)
+![image](https://github.com/yellowrel/TEAM-KWANGWOO/assets/37281544/97e766d4-eb5d-4bf6-84af-751f72a81817)
+
 활용 기술:
 Java/ Servlet/ JSP/ Oracle Database/ Oracle SQL/ HTML/ CSS/ Javascript/ Git
 

@@ -3,6 +3,7 @@ ERP기반 컴퓨터몰
 활용 기술:
 Java/ Servlet/ JSP/ Oracle Database/ Oracle SQL/ HTML/ CSS/ Javascript/ Git
 
+MVC패턴 학습과 Servlet환경 적응 DB제어에 중점을 두었습니다.
 
 🔍담당업무: 
         
